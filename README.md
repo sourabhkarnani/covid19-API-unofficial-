@@ -1,4 +1,5 @@
 # covid19-API-unofficial-
+Currently scrapping data from https://mohfw.gov.in/.
 
 ## Aim
 Aim is to create an automation which will fetch data from different sources such as government website, twitter, etc.
